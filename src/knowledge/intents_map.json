@@ -1,0 +1,22 @@
+[
+  { "intent": "greeting", "keywords": ["hi", "hello", "hola"], "file": "brand_core.json" },
+  { "intent": "product_glaucoma", "keywords": ["glaucoma", "timolol", "brimonidine"], "file": "brand_core.json" },
+  { "intent": "product_dryeye", "keywords": ["dry eye", "ocular surface", "tear film"], "file": "brand_core.json" },
+  { "intent": "product_allergy", "keywords": ["allergy", "antihistamine", "azelastine"], "file": "brand_core.json" },
+  { "intent": "product_antibiotic", "keywords": ["infection", "antibiotic", "moxifloxacin"], "file": "brand_core.json" },
+  { "intent": "product_inflammation", "keywords": ["inflammation", "steroid", "prednisolone"], "file": "brand_core.json" },
+  { "intent": "product_preservativefree", "keywords": ["preservative-free", "sensitive eyes"], "file": "brand_core.json" },
+  { "intent": "education", "keywords": ["cme", "course", "training"], "file": "brand_core.json" },
+  { "intent": "support", "keywords": ["help", "support", "issue"], "file": "brand_core.json" },
+  { "intent": "appointment", "keywords": ["schedule", "appointment", "meeting"], "file": "brand_core.json" },
+  { "intent": "samples", "keywords": ["sample", "request", "trial"], "file": "brand_core.json" },
+  { "intent": "shipping", "keywords": ["delivery", "shipping", "distributor"], "file": "brand_core.json" },
+  { "intent": "pricing", "keywords": ["price", "cost", "quotation"], "file": "brand_core.json" },
+  { "intent": "company_info", "keywords": ["about", "sophia", "company"], "file": "brand_core.json" },
+  { "intent": "career", "keywords": ["career", "job", "join"], "file": "brand_core.json" },
+  { "intent": "contact", "keywords": ["contact", "reach", "address"], "file": "brand_core.json" },
+  { "intent": "events", "keywords": ["event", "conference", "expo"], "file": "brand_core.json" },
+  { "intent": "research", "keywords": ["study", "trial", "innovation"], "file": "brand_core.json" },
+  { "intent": "compliance", "keywords": ["gdpr", "privacy", "policy"], "file": "brand_core.json" },
+  { "intent": "thankyou", "keywords": ["thanks", "thank you", "gracias"], "file": "brand_core.json" }
+]
